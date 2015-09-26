@@ -6,3 +6,7 @@
   core: {}
   editor:
     invisibles: {}
+  emmet: {}
+  "markdown-preview": {}
+  "markdown-mindmap":
+    theme: "colorful-dark"
